@@ -1,8 +1,11 @@
+
 # 🔐 React Password Generator
 
 A sleek and modern password generator built with **React JS**. Easily generate secure and customizable passwords with features like character length control, special character support, copy-to-clipboard functionality, and responsive glassmorphism UI.
 
-![alt text](image.png)
+
+![Uploading image.png…]()
+
 
 ## 🚀 Features
 
@@ -21,3 +24,6 @@ A sleek and modern password generator built with **React JS**. Easily generate s
 - **HTML5**
 - **CSS3** (with modern effects)
 - **JavaScript (ES6+)**
+
+---
+
